@@ -13,3 +13,4 @@ http://daspecster.github.io/ziptastic/
 * The city and sate will be auto filled.
 
 Note: for now, this bookmarklet works just for cities and statess in the United States. 
+
