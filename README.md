@@ -1,7 +1,10 @@
 autofillCityStateMagentoAdmin
 =============================
 
-Bookmarklet to auto fill the city and state based on zipcode in Magento Admin.
+Bookmarklet to auto fill the city and state based on zipcode in Magento Admin. 
+
+This can be helpful for customer service agents while taking orders from customers over the phone. 
+Saves time as they don't have to type in the city and state names.
 
 The Ziptastic API is used to get the city and state based on zipcode.
 
