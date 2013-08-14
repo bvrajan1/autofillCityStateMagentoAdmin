@@ -11,3 +11,5 @@ http://daspecster.github.io/ziptastic/
 * Add the bookmarklet to your browser. 
 * When creating an order in Magento Admin, type in zipcode and then, click the bookmarklet.
 * The city and sate will be auto filled.
+
+Note: for now, this bookmarklet works just for cities and statess in the United States. 
