@@ -3,7 +3,7 @@ autofillCityStateMagentoAdmin
 
 *Bookmarklet* to autofill the city and state based on zipcode in Magento Admin. 
 
-*video* http://youtu.be/vOGydkJsrx4
+*Video:* http://youtu.be/vOGydkJsrx4
 
 ### Use case 
 This can be helpful for customer service agents while taking orders from customers over the phone. Saves time as they don't have to type in the city and state names.
