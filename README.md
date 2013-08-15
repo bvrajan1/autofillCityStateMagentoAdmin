@@ -1,5 +1,3 @@
-autofillCityStateMagentoAdmin
-=============================
 
 **Bookmarklet** to autofill the city and state based on zipcode in Magento Admin. 
 
